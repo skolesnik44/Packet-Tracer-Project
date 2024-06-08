@@ -23,15 +23,16 @@ Server Room: Switch (1.0.0.0), PC1 (1.0.0.5), FTP Server (1.0.0.4), DNS Server (
 Configuration Settings: 
 
 
+![HTML](https://github.com/skolesnik44/packet-tracer-project/assets/172089307/f601ead8-a917-4f84-a340-e7d4821623d9)
 
-![Image](https://github.com/users/skolesnik44/projects/1/assets/172089307/3aa02a79-1859-44ce-b42a-a09b8bd77f28)
+
 
 
 
 Website Code: 
 
+![HTML2](https://github.com/skolesnik44/packet-tracer-project/assets/172089307/6e1d1bf4-cbc7-472e-a65b-8cfbf7b8eae7)
 
-![Image](https://github.com/users/skolesnik44/projects/1/assets/172089307/78e5b127-8aa3-4079-b3db-0ab0c98e46a2)
 
 
  
@@ -39,8 +40,9 @@ Website Code:
 Test of Website: 
 
  
+![WebsiteTest](https://github.com/skolesnik44/packet-tracer-project/assets/172089307/6f6fc8a0-7bff-4a77-96e0-a12d109428c6)
 
-![Image](https://github.com/users/skolesnik44/projects/1/assets/172089307/c8e13644-f28d-4566-9647-d1c7f75d248d)
+
 
 
 
@@ -52,15 +54,17 @@ Test of Website:
 
 Configuration Settings: 
 
- 
+ ![FTP](https://github.com/skolesnik44/packet-tracer-project/assets/172089307/413e24fb-51d2-444b-992c-258a72589109)
 
-![Image](https://github.com/users/skolesnik44/projects/1/assets/172089307/4c7dbdaa-3da6-465d-9271-02e3f8d4ec39)
+
+
 
 
 
 Connection Test: 
 
- ![Image](https://github.com/users/skolesnik44/projects/1/assets/172089307/ee22b5c0-572b-4099-a0f9-f64e38b8a86c)
+![FTP2](https://github.com/skolesnik44/packet-tracer-project/assets/172089307/be126074-a912-4c17-bced-8e34d026ae7d)
+
 
  
 
@@ -68,14 +72,16 @@ Connection Test:
 
 Configuration Settings: 
 
+![DNS](https://github.com/skolesnik44/packet-tracer-project/assets/172089307/4186697e-01ef-4831-a6d8-923c811ed022)
 
 
-![Image](https://github.com/users/skolesnik44/projects/1/assets/172089307/f2756c9a-a3b0-4831-8df6-d8d623e1304d)
+
 
 
 
 
 Test of DNS Resolver: 
 
-![Image](https://github.com/users/skolesnik44/projects/1/assets/172089307/b35a226e-4518-4dcc-85a0-d8efda9f7d42)
+![WebsiteTest](https://github.com/skolesnik44/packet-tracer-project/assets/172089307/d518e145-35b2-4e8e-be4f-2cc92788d5d8)
+
  
