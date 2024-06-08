@@ -1,4 +1,4 @@
-### **LAN Networking Topology** 
+### **Networking Devices Used** 
 
 The foundation of the networking hardware in this topology is made up of Cisco Catalyst 6509 switches (outfitted with Cisco 720 supervisors and VSS i.e. Virtual Switching System) and Cisco 4500 switches 
 
