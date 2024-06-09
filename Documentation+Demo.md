@@ -1,8 +1,10 @@
-### **Networking Devices Used** 
+# Packet Tracer Project
+
+## **Networking Devices Used** 
 
 The foundation of the hardware in this network is made up of Cisco Catalyst 6509 switches (outfitted with Cisco 720 supervisors and VSS i.e. Virtual Switching System) and Cisco 4500 switches 
 
-### **IP Addressing** 
+## **IP Addressing** 
 
 **HR department:** Switch (128.168.0.0), PC1 (128.168.0.2), PC2 (128.168.0.3), PC3 (128.168.0.4), PC4 (128.168.0.5), Printer (128.168.0.6) 
 
@@ -14,7 +16,7 @@ The foundation of the hardware in this network is made up of Cisco Catalyst 6509
 
 **Server Room:** Switch (1.0.0.0), PC1 (1.0.0.5), FTP Server (1.0.0.4), DNS Server (1.0.0.2), Web Server (1.0.0.3) 
 
-### **Demo of Services** 
+## **Demo of Services** 
 
  
 
